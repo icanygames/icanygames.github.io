@@ -7,7 +7,7 @@ html, body {
 }
 
 html * {
-   font-family: Arial;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .content {
@@ -16,9 +16,10 @@ html * {
     max-width: 800px;
     min-height: 100%;
     margin: auto;
-    padding-left: 16pt;
-    padding-right: 16pt;
-    padding-top: 4pt;
-    padding-bottom: 4pt;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 4px;
+    padding-bottom: 4px;
     background-color: #FFF;
+    text-align: justify;
 }
