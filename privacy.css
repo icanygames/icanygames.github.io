@@ -1,0 +1,24 @@
+html, body {
+    height: 100% !important;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #EEE
+}
+
+html * {
+   font-family: Arial;
+}
+
+.content {
+    box-sizing: border-box;
+    height: auto !important;
+    max-width: 800px;
+    min-height: 100%;
+    margin: auto;
+    padding-left: 16pt;
+    padding-right: 16pt;
+    padding-top: 4pt;
+    padding-bottom: 4pt;
+    background-color: #FFF;
+}
